@@ -1,0 +1,28 @@
+name: CMUNK
+favicon: null
+layout_spectrum: 0.5941895546857268
+typography_spectrum: 0.5063265454955399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.0987443698104471
+  lightness: 0.410330846440047
+  saturation: 0.8797530736774206
+  rhythmicContrast: 0.7036282403860241
+purpose: []
