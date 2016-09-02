@@ -23,19 +23,19 @@ color:
     - '#88714F'
     - '#FFDD7A'
   lightness: 0.6827956
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: C'MUNK
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5063265454955399
-layout_spectrum: 1
+layout_spectrum: 0
