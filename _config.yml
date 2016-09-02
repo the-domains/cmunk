@@ -15,14 +15,14 @@ collections:
 color:
   saturation: 0.8797531
   brandStrength: 0.1391876
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#FF783C'
-    - '#1A1500'
-    - '#CB3E01'
-    - '#88714F'
-    - '#FFDD7A'
   lightness: 0.6827956
+  brandColors:
+    - '#FFBA00'
+    - '#8E5800'
+    - '#DB8E00'
+    - '#C97600'
+    - '#6A3700'
+  rhythmicContrast: 0.75
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: C'MUNK
 favicon: null
+name: C'MUNK
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5063265454955399
-layout_spectrum: 0
+typography_spectrum: 0.5167264
+layout_spectrum: 0.2491039
