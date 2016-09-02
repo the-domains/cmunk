@@ -6,36 +6,36 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.8797531
   brandStrength: 0.1391876
-  lightness: 0.6827956
+  rhythmicContrast: 0.75
   brandColors:
     - '#FF783C'
     - '#1A1500'
     - '#CB3E01'
     - '#88714F'
     - '#FFDD7A'
-  rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
+  lightness: 0.6827956
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: C'MUNK
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5063265454955399
-layout_spectrum: 0.3052569
+layout_spectrum: 1
