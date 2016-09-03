@@ -1,5 +1,30 @@
-title: 'C''MUNK: DIGITAL FORCES'
-purpose: []
+typography_spectrum: 0.5167264
+color:
+  saturation: 0.8797531
+  brandStrength: 0.1391876
+  lightness: 0.6827956
+  brandColors:
+    - '#FFBA00'
+    - '#8E5800'
+    - '#DB8E00'
+    - '#C97600'
+    - '#6A3700'
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2491039
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: C'MUNK
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.8797531
-  brandStrength: 0.1391876
-  lightness: 0.6827956
-  brandColors:
-    - '#FFBA00'
-    - '#8E5800'
-    - '#DB8E00'
-    - '#C97600'
-    - '#6A3700'
-  rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: C'MUNK
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5167264
-layout_spectrum: 0.2491039
+title: C'MUNK
+purpose: []
