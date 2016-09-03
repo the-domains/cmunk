@@ -1,45 +1,45 @@
-typography_spectrum: 0.5167264
-color:
-  saturation: 0.8797531
-  brandStrength: 0.1391876
-  lightness: 0.6827956
-  brandColors:
-    - '#FFBA00'
-    - '#8E5800'
-    - '#DB8E00'
-    - '#C97600'
-    - '#6A3700'
-  rhythmicContrast: 0.75
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.2491039
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-author:
-  name: Chip Houghton
-  email: ''
-name: C'MUNK
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
+title: C'MUNK
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: C'MUNK
 description: Design | Entertainment | Marketing
-purpose: []
+color:
+  saturation: 1
+  brandStrength: 0.9719235
+  lightness: 1
+  brandColors:
+    - '#393738'
+    - '#C8D2DE'
+    - '#6E706F'
+    - '#BC4B5B'
+    - '#FFB804'
+  rhythmicContrast: 0.5454002
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: C'MUNK
+author:
+  name: Chip Houghton
+  email: ''
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+typography_spectrum: 0.6123058
+layout_spectrum: 0.2025089
